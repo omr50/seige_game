@@ -1,0 +1,8 @@
+-write game logic better and be able to write better c++ code
+-create a udp server that will allow clients to play in multiplayer mode
+-control game state well so that multiplayer game reflects accurately what
+is going on in both sides.
+-make the game actually fun and playable.
+-Learn some things I didn't know about.
+-setup security on the tcp server (tls or some other type of layer 4 security)
+-
